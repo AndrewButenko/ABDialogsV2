@@ -1,5 +1,6 @@
 # AB Dialogs V2
 Thanks for visiting the "AB Dialogs V2" repository.
 
-When Microsoft Dataverse UCI was migrated from "Classic" to "UCI" client one of widely used features called "Dialogs" did not make it to "UCI" interface.
-The goal of this project is to cover this gap and provide customizers/developers to create own dialogs in an easier way and users to enjoy and use it.
+When Microsoft introduced new "UCI" interface and migrated all the apps to it from the "Classic" interface - one of widely used features called "Dialogs" did not make it and was marked as [deprecated](https://learn.microsoft.com/en-us/power-platform/important-changes-coming#process-dialogs-are-deprecated).
+
+The goal of this project is to fill this gap and provide customizers/developers to create own dialogs in an easier way and users to enjoy and use it.
